@@ -58,3 +58,9 @@ body {
   left: 0;
   min-height: 300px;
 }
+.bg-green {
+  background-color: #0aa10a;
+}
+.bg-red {
+  background-color: #ff0000;
+}
