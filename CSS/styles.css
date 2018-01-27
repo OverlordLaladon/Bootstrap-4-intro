@@ -64,3 +64,9 @@ body {
 .bg-red {
   background-color: #ff0000;
 }
+
+#carouselButtons {
+  right: 0px;
+  position: absolute;
+  bottom: 0px;
+}
